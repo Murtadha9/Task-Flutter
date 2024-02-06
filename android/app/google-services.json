@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896383308783",
+    "project_id": "moor-dc07f",
+    "storage_bucket": "moor-dc07f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896383308783:android:0c1794561d939c06b79c1a",
+        "android_client_info": {
+          "package_name": "com.example.moor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmJvtv7WAEm6vKmiuCGXy-hVU0--meT9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
