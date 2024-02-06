@@ -1,12 +1,5 @@
 # moor
 
-![1](https://github.com/Murtadha9/Task-Flutter/assets/138989987/8f60b175-0d21-4b4c-a084-837f4dca7c07)
-
-![2](https://github.com/Murtadha9/Task-Flutter/assets/138989987/df7cc340-b1f3-49c1-a869-91b33cd4d2cd)
-
-![4](https://github.com/Murtadha9/Task-Flutter/assets/138989987/76dc7ca9-a87b-4691-b205-ae2c390ac82d)
-
-
 
 A new Flutter project.
 
